@@ -218,7 +218,7 @@ textarea {
 }
 
 .projetos .projeto{
-    max-width: 260px;
+    max-width: 300px;
     max-height: 500px;
     position: relative;
     display: none;
@@ -267,7 +267,7 @@ textarea {
     }
   
     50% {
-      background-position: 100% 50%;
+      background-position: 50% 50%;
     }
   
     100% {
